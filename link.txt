@@ -1,0 +1,6 @@
+https://petercbsmith.github.io/color-tutorial.html#part%205
+
+https://mljar.com/blog/matplotlib-colors/
+
+https://matplotlib.org/stable/tutorials/colors/colors.html
+https://www.webucator.com/article/python-color-constants-module/
